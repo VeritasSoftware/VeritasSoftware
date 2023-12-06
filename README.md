@@ -21,8 +21,8 @@ I am also an open-source enthusiast.
 
 | **News** | |
 |---|---|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="104" height="104" alt="docker" style="vertical-align:top; margin:4px"/>|My project **AspNetCore.ApiGateway** was [on-boarded](https://github.com/dotnet-foundation/projects/issues/255) by the .NET Foundation.|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="104" height="104" alt="docker" style="vertical-align:top; margin:4px"/>|My project **ts-sync-request** is getting 200+ K downloads/year on NPM.|
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="75" height="75" alt="docker" style="vertical-align:top; margin:4px"/>|My project **AspNetCore.ApiGateway** was [on-boarded](https://github.com/dotnet-foundation/projects/issues/255) by the .NET Foundation.|
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="75" height="75" alt="docker" style="vertical-align:top; margin:4px"/>|My project **ts-sync-request** is getting 200+ K downloads/year on NPM.|
  
             
 
