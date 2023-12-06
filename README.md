@@ -10,7 +10,9 @@ I am also an open-source enthusiast.
 |*Live Health Checks*|Real-Time Api Health Check Monitoring system|[Live Health Checks](https://github.com/VeritasSoftware/LiveHealthChecks)|
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="104"
-            height="104" alt="docker" style="vertical-align:top; margin:4px"> My project **AspNetCore.ApiGateway** was [on-boarded](https://github.com/dotnet-foundation/projects/issues/255) by the .NET Foundation.
+            height="104" alt="docker" style="vertical-align:top; margin:4px"/> 
+            
+My project **AspNetCore.ApiGateway** was [on-boarded](https://github.com/dotnet-foundation/projects/issues/255) by the .NET Foundation.
 
 <!--
 **VeritasSoftware/VeritasSoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
