@@ -9,7 +9,7 @@ I am also an open-source enthusiast.
 |*AspNetCore.ApiGateway*|Asp Net Core Api Gateway Framework|[AspNetCore.ApiGateway](https://github.com/VeritasSoftware/AspNetCore.ApiGateway)|
 |*Live Health Checks*|Real-Time Api Health Check Monitoring system|[Live Health Checks](https://github.com/VeritasSoftware/LiveHealthChecks)|
 
-My project **AspNetCore.ApigGateway** was on-boarded by the .NET Foundation.
+My project **AspNetCore.ApiGateway** was on-boarded by the .NET Foundation.
 
 <!--
 **VeritasSoftware/VeritasSoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
