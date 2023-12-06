@@ -14,7 +14,8 @@ I am also an open-source enthusiast.
 
 <p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="75" height="75" alt="Asp Net Core" title="Asp Net Core" style="vertical-align:top; margin:4px"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="75" height="75" alt="Angular" title="Angular" style="vertical-align:top; margin:4px"/>   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="75" height="75" alt="Angular" title="Angular" style="vertical-align:top; margin:4px"/>
+   <img src="/assets/Blazor.png" width="75" height="75" alt="Blazor Web Assembly" title="Blazor Web Assembly" style="vertical-align:top; margin:4px"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="75" height="75" alt="Azure" title="Azure" style="vertical-align:top; margin:4px"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="75" height="75" alt="AWS" title="AWS" style="vertical-align:top; margin:4px"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="75" height="75" alt="MS Sql Server" title="MS Sql Server" style="vertical-align:top; margin:4px"/>
