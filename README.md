@@ -4,6 +4,10 @@ I'm a Full Stack .NET software engineer.
 
 I am also an open-source enthusiast.
 
+<a>
+   <img src="https://komarev.com/ghpvc/?username=VeritasSoftware&color=ff69b4&style=for-the-badge" />
+ </a>
+
 |**My .NET open-source projects**|||
 |---------------------------|----|---|
 |*AspNetCore.ApiGateway*|Asp Net Core Api Gateway Framework|[Browse](https://github.com/VeritasSoftware/AspNetCore.ApiGateway)|
