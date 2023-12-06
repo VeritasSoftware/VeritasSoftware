@@ -11,7 +11,6 @@ I am also an open-source enthusiast.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="104"
             height="104" alt="docker" style="vertical-align:top; margin:4px" />
-
 My project **AspNetCore.ApiGateway** was [on-boarded](https://github.com/dotnet-foundation/projects/issues/255) by the .NET Foundation.
 
 <!--
