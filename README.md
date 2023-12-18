@@ -16,10 +16,10 @@ I am also an open-source enthusiast.
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="75" height="75" alt="Asp Net Core" title="Asp Net Core" style="vertical-align:top; margin:4px"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="75" height="75" alt="Angular" title="Angular" style="vertical-align:top; margin:4px"/>
    <img src="/assets/Blazor.png" width="75" height="75" alt="Blazor Web Assembly" title="Blazor Web Assembly" style="vertical-align:top; margin:4px"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="75" height="75" alt="Azure" title="Azure" style="vertical-align:top; margin:4px"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="75" height="75" alt="AWS" title="AWS" style="vertical-align:top; margin:4px"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="75" height="75" alt="MS Sql Server" title="MS Sql Server" style="vertical-align:top; margin:4px"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="75" height="75" alt="MongoDb" title="MongoDb" style="vertical-align:top; margin:4px"/>
+   <img src="/assets/Azure.png" width="75"   height="75" alt="Azure" title="Azure" style="vertical-align:top; margin:4px"/>
+   <img src="/assets/AWS.jpg" width="75" height="75" alt="AWS" title="AWS" style="vertical-align:top; margin:4px"/>
+   <img src="/assets/MSSqlServer.jpg" width="75" height="75" alt="MS Sql Server" title="MS Sql Server" style="vertical-align:top; margin:4px"/>
+   <img src="/assets/MongoDb.jpg" width="75" height="75" alt="MongoDb" title="MongoDb" style="vertical-align:top; margin:4px"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="75" height="75" alt="docker containerisation" title="docker containerisation" style="vertical-align:top; margin:4px"/>
 </p>
 
