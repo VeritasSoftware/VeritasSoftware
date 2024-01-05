@@ -23,6 +23,11 @@ I am also an open-source enthusiast.
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="75" height="75" alt="docker containerisation" title="docker containerisation" style="vertical-align:top; margin:4px"/>
 </p>
 
+<p>
+   ![](https://github-readme-stats.vercel.app/api?username=VeritasSoftware&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VeritasSoftware&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=15)   
+</p>
+
 |**My .NET open-source projects**|||
 |---------------------------|----|---|
 |*AspNetCore.ApiGateway*|Asp Net Core Api Gateway Framework|[Browse](https://github.com/VeritasSoftware/AspNetCore.ApiGateway)|
