@@ -27,18 +27,18 @@ I am also an open-source enthusiast.
 |----|----|
 |![](https://github-readme-stats.vercel.app/api?username=VeritasSoftware&theme=dark&hide_border=false&include_all_commits=true&count_private=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=VeritasSoftware&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=15)|
 
-|**My .NET open-source projects**|||
+||**My .NET open-source projects**||
 |---------------------------|----|---|
 |*AspNetCore.ApiGateway*|Asp Net Core Api Gateway Framework|[Browse](https://github.com/VeritasSoftware/AspNetCore.ApiGateway)|
 |*Live Health Checks*|Real-Time Api Health Check Monitoring system|[Browse](https://github.com/VeritasSoftware/LiveHealthChecks)|
 
-|**My TypeScript open-source projects**|||
+||**My TypeScript open-source projects**||
 |---------------------------|---|---|
 |*ts-sync-request*|Synchronous http service in TypeScript|[Browse](https://github.com/VeritasSoftware/ts-sync-request)|
 |*ts.validator.fluent*|TypeScript based generic validation framework library|[Browse](https://github.com/VeritasSoftware/ts.validator)|
 |*ts-generic-collections-linq*|TypeScript library provides generic, strongly-typed, queryable collections library|[Browse](https://github.com/VeritasSoftware/ts-generic-collections)|
 
-| **Industry level achievements** | |
+|| **Industry level achievements** |
 |:---:|---|
 |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="75" height="75" alt="docker" style="vertical-align:top; margin:4px"/>|My project **AspNetCore.ApiGateway** was [on-boarded](https://github.com/dotnet-foundation/projects/issues/255) by the .NET Foundation.|
 |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="75" height="75" alt="docker" style="vertical-align:top; margin:4px"/>|My project **ts-sync-request** is getting 200+ K downloads/year on NPM.|
