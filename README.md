@@ -39,7 +39,7 @@ I am also an open-source enthusiast.
 |*ts-generic-collections-linq*|TypeScript library provides generic, strongly-typed, queryable collections library|[Browse](https://github.com/VeritasSoftware/ts-generic-collections)|
 
 | **My latest work**|||
-|:---:|---|
+|:---:|---|------|
 | *my-angular-animation* | Angular library provides commonly used animations. Also, you can run your custom industry standard animations too.|[Browse](https://github.com/VeritasSoftware/my-angular-animation-project)|
 | *MyBlazorAnimation* | Blazor library provides commonly used animations. Also, you can run your custom industry standard animations too.|[Browse](https://github.com/VeritasSoftware/MyBlazorAnimation)|
 
