@@ -38,6 +38,12 @@ I am also an open-source enthusiast.
 |*ts.validator.fluent*|TypeScript based generic validation framework library|[Browse](https://github.com/VeritasSoftware/ts.validator)|
 |*ts-generic-collections-linq*|TypeScript library provides generic, strongly-typed, queryable collections library|[Browse](https://github.com/VeritasSoftware/ts-generic-collections)|
 
+| **My latest work**|||
+|:---:|---|
+| *my-angular-animation* | Angular library provides commonly used animations. Also, you can run your custom industry standard animations too.|[Browse](https://github.com/VeritasSoftware/my-angular-animation-project)|
+| *MyBlazorAnimation* | Blazor library provides commonly used animations. Also, you can run your custom industry standard animations too.|[Browse](https://github.com/VeritasSoftware/MyBlazorAnimation)|
+
+
 || **Industry level achievements** |
 |:---:|---|
 |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="75" height="75" alt="docker" style="vertical-align:top; margin:4px"/>|<ul><li>My project [**AspNetCore.ApiGateway**](https://github.com/VeritasSoftware/AspNetCore.ApiGateway) was [on-boarded](https://github.com/dotnet-foundation/projects/issues/255) by the .NET Foundation.</li><li>The Foundation introduced it on their [social media channels](https://www.linkedin.com/feed/update/urn:li:activity:7168255226624372736/) as a revolutionary Gateway.</li><li>Really well received by the community too.</li></ul>|
