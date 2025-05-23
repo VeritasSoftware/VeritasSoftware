@@ -48,7 +48,7 @@ I am also an open-source enthusiast.
 || **Industry level achievements** |
 |:---:|---|
 |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="75" height="75" alt="docker" style="vertical-align:top; margin:4px"/>|<ul><li>My project [**AspNetCore.ApiGateway**](https://github.com/VeritasSoftware/AspNetCore.ApiGateway) was [on-boarded](https://github.com/dotnet-foundation/projects/issues/255) by the .NET Foundation.</li><li>The Foundation introduced it on their [social media channels](https://www.linkedin.com/feed/update/urn:li:activity:7168255226624372736/) as a revolutionary Gateway.</li><li>Really well received by the community too.</li></ul>|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="75" height="75" alt="docker" style="vertical-align:top; margin:4px"/>|<ul><li>My project [**ts-sync-request**](https://github.com/VeritasSoftware/ts-sync-request) is getting 150+ K downloads/year on NPM.</li><li>The library has crossed [half million total downloads](https://npm-stat.com/charts.html?package=ts-sync-request&from=2019-01-01&to=2024-08-28) on NPM.</li></ul>|
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="75" height="75" alt="docker" style="vertical-align:top; margin:4px"/>|<ul><li>My project [**ts-sync-request**](https://github.com/VeritasSoftware/ts-sync-request) is getting 150+ K downloads/year on NPM.</li><li>The library has crossed [half million total downloads](https://npm-stat.com/charts.html?package=ts-sync-request&from=2019-01-01) on NPM.</li></ul>|
  
             
 
