@@ -43,6 +43,7 @@ I am also an open-source enthusiast.
 | *Subscribe Notify pattern* | Angular pattern that greatly simplifies dealing with Observables (HttpClient) in your component. |[Browse](https://github.com/VeritasSoftware/NotificationService)|
 | *my-angular-animation* | Angular library provides commonly used animations. Also, you can run your custom industry standard animations too.|[Browse](https://github.com/VeritasSoftware/my-angular-animation-project)|
 | *MyBlazorAnimation* | Blazor library provides commonly used animations. Also, you can run your custom industry standard animations too.|[Browse](https://github.com/VeritasSoftware/MyBlazorAnimation)|
+| *Password Strength Data Annotation* | Password strength data annotation using Regular Expressions.|[Browse](https://github.com/VeritasSoftware/PasswordStrengthDataAnnotation)|
 
 
 || **Industry level achievements** |
