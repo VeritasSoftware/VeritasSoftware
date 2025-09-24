@@ -31,6 +31,7 @@ I am also an open-source enthusiast.
 |---------------------------|----|---|
 |*AspNetCore.ApiGateway*|Asp Net Core Api Gateway Framework|[Browse](https://github.com/VeritasSoftware/AspNetCore.ApiGateway)|
 |*Live Health Checks*|Real-Time Api Health Check Monitoring system|[Browse](https://github.com/VeritasSoftware/LiveHealthChecks)|
+|*.NET WebRTC*|A .NET library for WebRTC, enabling real-time communication in your web applications.|[Browse](https://github.com/VeritasSoftware/WebRTC)|
 
 ||**My TypeScript open-source projects**||
 |---------------------------|---|---|
