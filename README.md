@@ -13,7 +13,7 @@ I am also an open-source enthusiast.
 </p>
 
 <p align="center">
-   <img src="/asset/dotnetcore-original.svg" width="75" height="75" alt="Asp Net Core" title="Asp Net Core" style="vertical-align:top; margin:4px"/>
+   <img src="/assets/dotnetcore-original.svg" width="75" height="75" alt="Asp Net Core" title="Asp Net Core" style="vertical-align:top; margin:4px"/>
    <img src="/assets/angularjs-original.svg" width="75" height="75" alt="Angular" title="Angular" style="vertical-align:top; margin:4px"/>
    <img src="/assets/Blazor.png" width="75" height="75" alt="Blazor Web Assembly" title="Blazor Web Assembly" style="vertical-align:top; margin:4px"/>
    <img src="/assets/Azure.png" width="75"   height="75" alt="Azure" title="Azure" style="vertical-align:top; margin:4px"/>
