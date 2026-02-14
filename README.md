@@ -40,6 +40,7 @@ I am a member of the [**.NET Foundation**](https://github.com/dotnet-foundation)
 
 ||**My latest work**||
 |:---:|---|------|
+| *Website AI Assistant* | AI Assistant built using ML .NET, Microsoft's machine learning platform, to help visitors to your website, narrow down which of the offered products or services suits their needs.|[Browse](https://github.com/VeritasSoftware/WebsiteAIAssistant)|
 | *Subscribe Notify pattern* | Angular pattern that greatly simplifies dealing with Observables (HttpClient) in your component. |[Browse](https://github.com/VeritasSoftware/NotificationService)|
 | *my-angular-animation* | Angular library provides commonly used animations. Also, you can run your custom industry standard animations too.|[Browse](https://github.com/VeritasSoftware/my-angular-animation-project)|
 | *MyBlazorAnimation* | Blazor library provides commonly used animations. Also, you can run your custom industry standard animations too.|[Browse](https://github.com/VeritasSoftware/MyBlazorAnimation)|
