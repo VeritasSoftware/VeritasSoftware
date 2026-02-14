@@ -4,6 +4,8 @@ I'm a Full Stack .NET software engineer.
 
 I am also an open-source enthusiast.
 
+I am a member of the [**.NET Foundation**](https://github.com/dotnet-foundation) and have contributed to several open-source projects.
+
 <a>
    <img src="https://komarev.com/ghpvc/?username=VeritasSoftware&color=ff69b4&style=for-the-badge" />
  </a>
