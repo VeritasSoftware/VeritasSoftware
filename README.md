@@ -4,6 +4,10 @@ I'm a Full Stack .NET software engineer.
 
 I am also an open-source enthusiast.
 
+AI and machine learning are my areas of interest too.
+
+I am experienced in designing & building AI models using  ML.NET, Microsoft's machine learning platform.
+
 I am a member of the [**.NET Foundation**](https://github.com/dotnet-foundation) and have contributed to several open-source projects.
 
 <a>
