@@ -49,7 +49,7 @@ I am a member of the [**.NET Foundation**](https://github.com/dotnet-foundation)
 | *my-angular-animation* | Angular library provides commonly used animations. Also, you can run your custom industry standard animations too.|[Browse](https://github.com/VeritasSoftware/my-angular-animation-project)|
 | *MyBlazorAnimation* | Blazor library provides commonly used animations. Also, you can run your custom industry standard animations too.|[Browse](https://github.com/VeritasSoftware/MyBlazorAnimation)|
 | *Password Strength Data Annotation* | Password strength data annotation using Regular Expressions.|[Browse](https://github.com/VeritasSoftware/PasswordStrengthDataAnnotation)|
-| *xUnit Addons* | xUnit addons to run code specific to the test before the test.|[Browse](https://github.com/VeritasSoftware/xUnit-Addons)|
+| *xUnit Addons* | xUnit addons to run asynchronous code specific to the test before the test.|[Browse](https://github.com/VeritasSoftware/xUnit-Addons)|
 
 || **Industry level achievements** |
 |:---:|---|
