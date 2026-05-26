@@ -48,7 +48,8 @@ I am a member of the [**.NET Foundation**](https://github.com/dotnet-foundation)
 | *Subscribe Notify pattern* | Angular pattern that greatly simplifies dealing with Observables (HttpClient) in your component. |[Browse](https://github.com/VeritasSoftware/NotificationService)|
 | *my-angular-animation* | Angular library provides commonly used animations. Also, you can run your custom industry standard animations too.|[Browse](https://github.com/VeritasSoftware/my-angular-animation-project)|
 | *MyBlazorAnimation* | Blazor library provides commonly used animations. Also, you can run your custom industry standard animations too.|[Browse](https://github.com/VeritasSoftware/MyBlazorAnimation)|
-| *MyPasswordStrength* | Define your password strength complexity requirements with ease. Uses Regular Expressions.|[Browse](https://github.com/VeritasSoftware/PasswordStrengthDataAnnotation)|
+| *MyPasswordStrength* |  .NET library to define your password strength complexity requirements with ease. Uses Regular Expressions.|[Browse](https://github.com/VeritasSoftware/PasswordStrengthDataAnnotation)|
+| *ts-my-password-strength* | TypeScript library to define your password strength complexity requirements with ease. Uses Regular Expressions.|[Browse](https://github.com/VeritasSoftware/PasswordStrengthDataAnnotation/tree/master/ts-my-password-strength)|
 | *xUnit Addons* | xUnit addons to run async test setup code. Create safer, more reliable tests. Easy to use.|[Browse](https://github.com/VeritasSoftware/xUnit-Addons)|
 
 || **Industry level achievements** |
