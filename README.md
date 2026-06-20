@@ -46,6 +46,7 @@ I am a member of the [**.NET Foundation**](https://github.com/dotnet-foundation)
 ||**My latest work**||
 |:---:|---|------|
 | *MyPasswordStrength* |  .NET library to define your password strength complexity requirements with ease. Uses Regular Expressions.|[Browse](https://github.com/VeritasSoftware/PasswordStrengthDataAnnotation)|
+| *MyPasswordStrength.NET.MAUI* |  .NET MAUI library to define your password strength complexity requirements with ease. Uses Regular Expressions.|[Browse](https://github.com/VeritasSoftware/PasswordStrengthDataAnnotation/tree/master/MyPasswordStrength.NET.MAUI)|
 | *ts-my-password-strength* | TypeScript library to define your password strength complexity requirements with ease. Uses Regular Expressions.|[Browse](https://github.com/VeritasSoftware/PasswordStrengthDataAnnotation/tree/master/ts-my-password-strength)|
 | *angular-my-password-strength* | Angular library to define your password strength complexity requirements with ease. Uses Regular Expressions.|[Browse](https://github.com/VeritasSoftware/PasswordStrengthDataAnnotation/tree/master/angular-my-password-strength)|
 | *react-my-password-strength* | React library to define your password strength complexity requirements with ease. Uses Regular Expressions.|[Browse](https://github.com/VeritasSoftware/PasswordStrengthDataAnnotation/tree/master/react-my-password-strength)|
