@@ -46,10 +46,11 @@ I am a member of the [**.NET Foundation**](https://github.com/dotnet-foundation)
 ||**My latest work**||
 |:---:|---|------|
 | *MyPasswordStrength* |  .NET library to define your password strength complexity requirements with ease. Uses Regular Expressions.|[Browse](https://github.com/VeritasSoftware/PasswordStrengthDataAnnotation)|
+| *MyPasswordStrength.Blazor* |  Blazor library to define your password strength complexity requirements with ease. Uses Regular Expressions.|[Browse](https://github.com/VeritasSoftware/PasswordStrengthDataAnnotation/tree/master/MyPasswordStrength.Blazor)|
 | *MyPasswordStrength.NET.MAUI* |  .NET MAUI library to define your password strength complexity requirements with ease. Uses Regular Expressions.|[Browse](https://github.com/VeritasSoftware/PasswordStrengthDataAnnotation/tree/master/MyPasswordStrength.NET.MAUI)|
 | *ts-my-password-strength* | TypeScript library to define your password strength complexity requirements with ease. Uses Regular Expressions.|[Browse](https://github.com/VeritasSoftware/PasswordStrengthDataAnnotation/tree/master/ts-my-password-strength)|
 | *angular-my-password-strength* | Angular library to define your password strength complexity requirements with ease. Uses Regular Expressions.|[Browse](https://github.com/VeritasSoftware/PasswordStrengthDataAnnotation/tree/master/angular-my-password-strength)|
-| *react-my-password-strength* | React library to define your password strength complexity requirements with ease. Uses Regular Expressions.|[Browse](https://github.com/VeritasSoftware/PasswordStrengthDataAnnotation/tree/master/react-my-password-strength)|
+| *react-my-password-strength* | ReactJS library to define your password strength complexity requirements with ease. Uses Regular Expressions.|[Browse](https://github.com/VeritasSoftware/PasswordStrengthDataAnnotation/tree/master/react-my-password-strength)|
 | *Subscribe Notify pattern* | Angular pattern that greatly simplifies dealing with Observables (HttpClient) in your component. |[Browse](https://github.com/VeritasSoftware/NotificationService)|
 | *my-angular-animation* | Angular library provides commonly used animations. Also, you can run your custom industry standard animations too.|[Browse](https://github.com/VeritasSoftware/my-angular-animation-project)|
 | *MyBlazorAnimation* | Blazor library provides commonly used animations. Also, you can run your custom industry standard animations too.|[Browse](https://github.com/VeritasSoftware/MyBlazorAnimation)|
