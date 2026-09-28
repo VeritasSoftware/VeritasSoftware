@@ -43,6 +43,7 @@ I am a member of the [**.NET Foundation**](https://github.com/dotnet-foundation)
 | *Website AI Assistant* | AI Assistant built using ML .NET, Microsoft's machine learning platform, to help visitors to your website, narrow down which of the offered products or services suits their needs.|[Browse](https://github.com/VeritasSoftware/WebsiteAIAssistant)|
 |*Live Health Checks*|Real-Time Api Health Check Monitoring system|[Browse](https://github.com/VeritasSoftware/LiveHealthChecks)|
 |*.NET WebRTC*|A .NET library for WebRTC, enabling real-time (audio and video) communication in your web applications. Blazor, Angular & React clients.|[Browse](https://github.com/VeritasSoftware/WebRTC)|
+|*OnTheFlySettings*|A .NET library to update your API/App config settings on-the-fly, at runtime, without needing a restart! Zero downtime!|[Browse](https://github.com/VeritasSoftware/OnTheFlySettings)|
 
 ||**My TypeScript open-source projects**||
 |---------------------------|---|---|
